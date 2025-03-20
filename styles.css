@@ -4,7 +4,7 @@
 :root {
     --laranja-claro: hsl(26, 100%, 58%);
     --alto-contraste-fundo: #000000;
-    --alto-contraste-texto: #ffffff;
+    --alto-contraste-texto: #a19d9d;
     --alto-contraste-link: #ffd700;
 }
 
@@ -121,7 +121,7 @@ h2 {
 }
 
 .formulario {
-    background-color: #ffffff;
+    background-color: #000000;
     padding: 2rem;
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
@@ -138,7 +138,7 @@ h2 {
 }
 
 .form-control {
-    background-color: #F1EDEF;
+    background-color: #000000;
 }
 .menu-acessibilidade{
     position: fixed;
